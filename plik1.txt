@@ -1,0 +1,20 @@
+EGMENT A : samochody przeznaczone do jazdy miejskiej; cechują je niewielkie wymiary oraz niskie koszty eksploatacji. Niepraktyczne do poruszania się na trasach pozamiejskich. Mogą być dwu- lub czteroosobowe, pięcioosobowe zwykle przeznaczają trzy tylne miejsca dla dzieci.
+
+SEGMENT B : małe samochody oferujące więcej aniżeli segment A miejsca dla pasażerów oraz praktyczny bagażnik. Cechy te pozwalają na poruszanie się nimi na trasach poza miastem, jednakże bardziej przeznaczone są do użytkowania w mieście."
+
+SEGMENT C : samochody średnich wymiarów przeznaczone do jazdy po mieście oraz na trasach. Oferują miejsce dla pięciu dorosłych osób oraz bagażnik, a także w miarę komfortowe warunki podróżowania. Wybierane zarówno jako pierwszy, jak i kolejny pojazd w rodzinie. Szeroka gama wersji nadwoziowych.
+
+SEGMENT D : samochody zapewniające komfortowe warunki podróżowania pięciu dorosłym osobom (z bagażem) na dłuższych dystansach. Najczęściej w wersjach nadwoziowych sedan (lub bliskich wielkością sedanom hatchback) oraz kombi. Wiele z nich dostępnych jest w wersjach coupé, najczęściej jako sportowe, ekskluzywne wersje danego modelu.
+
+SEGMENT E : duże, komfortowe i bogato wyposażone samochody, których celem jest nie tylko użytkowanie przez rodziny, ale także jako reprezentacyjne limuzyny dla firm. Technika i wyposażenie w nich zawarte pozwala na długie podróże - a dane techniczne czołowych wersji mogą nierzadko konkurować nawet z typowymi samochodami sportowymi.
+
+SEGMENT F : limuzyny o najwyższym poziomie wyposażenia i najlepszych (często największych) silnikach. Ich cechy pozwalają na bardzo komfortową podróż zarówno kierowcy, jak i pasażerom. Używane często jako reprezentacyjne limuzyny dla szefów państw, firm itd., samochodami tymi nierzadko jeździ się lepiej jako pasażer tylnych siedzeń, a nie jako kierowca.
+
+SEGMENT G : klasa samochodów obejmująca bardzo dużą grupę pojazdów. Standardowo znajdują się tu pojazdy o nadwoziu dwu-, ewentualnie trzydrzwiowym coupé:
+- luksusowe i sportowe coupé - pojazdy będące osobnymi modelami, prezentujące sportowy i/lub ekstrawagancki styl coupé.
+- samochody supersportowe - nazywane Segmentem G+ pojazdy o bardzo wysokich osiągach, stworzone albo jako modele z założenia osiągające duże prędkości i wysokie przyśpieszenia, albo też jako drogowe wersje samochodów wyczynowych
+
+SEGMENT H : samochody ze składanym, twardym bądź miękkim dachem, lub też całkowicie pozbawione dachu. Mogą być one otwartymi wersjami samochodów zawartych w segmencie G, inne dostępne są wyłącznie jako kabriolety lub roadstery.  
+
+SEGMENT I : samochody prezentujące cechy umożliwiające jazdę w terenie. 
+

@@ -1,0 +1,479 @@
+egment A:
+
+1. Renault Twingo
+
+Typy nadwozia 	     3-drzwiowy hatchback
+                     2-drzwiowy kabriolet (Wind)
+Długość 	     3600 mm
+Szerokość 	     1655 mm
+Wysokość 	     1470 mm
+Test Euro NCAP 	     4 gwiazdki
+Pojemność bagażnika  230/959 l
+
+2. Hyundai i10 
+
+Długość 	     3565 mm
+Szerokość 	     1595 mm
+Wysokość 	     1540 mm
+Rozstaw osi 	     2380 mm
+Masa własna 	     925 - 1040 kg
+Test Euro NCAP 	     4 gwiazdek
+Pojemność bagażnika  925/ 910 l
+
+3. Peugeot 107
+
+Typy nadwozia 	     3-drzwiowy i 5-drzwiowy hatchback
+Rodzaj napędu 	     przedni
+Długość 	     3430 mm
+Szerokość 	     1630 mm
+Wysokość 	     1460 mm
+Masa własna 	     790 kg / 880 kg
+Test Euro NCAP 	     3 gwiazdek
+
+4. Ford KA
+
+Długość 	     3620 mm
+Szerokość 	     1658 mm
+Wysokość 	     1505 mm
+Rozstaw osi 	     2300 mm
+Masa własna 	     940-1060 kg
+Test Euro NCAP 	     4 gwiazdek
+Pojemność bagażnika  224/747 l
+
+5. Fiat 500 
+
+Długość 	     3546 mm
+Szerokość 	     1627 mm
+Wysokość 	     1488 mm
+Rozstaw osi 	     2300 mm
+Masa własna 	     865 kg
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  185 - 610 l
+
+SEGMENT B :
+
+1. Alfa Romeo MiTo
+
+Typy nadwozia 	     3-drzwiowy hatchback
+Długość 	     4060 mm
+Szerokość 	     1720 mm
+Wysokość 	     1440 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  270/950 l
+Rodzaj napedu        przedni
+
+
+2. Citroën C3 I
+
+Typy nadwozia 	     5-drzwiowy hatchback
+                     2-dzwiowe cabrio
+Długość 	     3850 mm
+Szerokość            1667 mm
+Wysokość 	     1510 mm
+Test Euro NCAP 	     4 gwiazdki
+Pojemność bagażnika  305/1150 l
+
+
+3. Peugeot 207
+
+Typy nadwozia 	     3 i 5 drzwiowy hatchback
+                     5-drzwiowe kombi
+Długość 	     4045 mm
+Szerokość 	     1748 mm
+Wysokość 	     1472 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  50 l
+
+
+4. Toyota Yaris
+
+Typy nadwozia 	     3 i 5 -drzwiowy hatchback
+                     4-drzwiowy sedan
+                     2-drzwiowe coupe
+Długość 	     3640 mm
+Szerokość 	     1660 mm
+Wysokość 	     1500 mm
+Test Euro NCAP 	     4 gwiazdki
+Pojemność bagażnika  205-950 l (hatckback)
+                                                   
+
+5. Dacia Sandero
+
+Typy nadwozia 	     5-drzwiowy hatchback
+Długość 	     4020 mm
+Szerokość 	     1746 mm
+Wysokość 	     1534 mm
+Test Euro NCAP 	     3 gwiazdek
+Pojemność bagażnika  320/1200 l
+
+SEGMENT C :
+
+1. Alfa Romeo Giulietta
+
+Typy nadwozia 	     3-drzwiowy hatchback
+Długość 	     4350 mm
+Szerokość 	     1800 mm
+Wysokość 	     1460 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  350/1045 l
+Rodzaj napedu        przedni
+
+
+2. Citroen C4
+
+Typy nadwozia 	     5-drzwiowy hatchback
+                     3-drzwiowy Coupe
+                     4-drzwiowy Sedan
+                     5-drzwiowy Minivan
+Długość 	     4275 mm
+Szerokość 	     1773 mm
+Wysokość 	     1458 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  314/1083 l
+
+3. Citroen C4
+
+Typy nadwozia 	     5-drzwiowy hatchback
+Długość 	     4184 mm
+Szerokość 	     1773 mm
+Wysokość 	     1457 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  340/656/1040 l
+
+4. Mazda 3
+
+Typy nadwozia 	     5-drzwiowy hatchback 
+                     4-drzwiowy sedan
+Długość 	     4490 mm
+Szerokość 	     1755 mm
+Wysokość 	     1465 mm
+Test Euro NCAP 	     4 gwiazdki
+Pojemność bagażnika  340/ 1272 l 
+
+5.Volkswagen Golf
+
+Typy nadwozia 	     3 i 5-drzwiowy hatchback
+                     5-drzwiowe kombi
+                     5-drzwiowy minivan (Golf Plus)
+Długość 	     4204
+Szerokość 	     1759 mm
+Wysokość 	     1470 mm
+Test Euro NCAP 	     5 gwiazdek
+Pojemność bagażnika  350/ 1305 l
+
+SEGMENT D :
+
+1. Alfa Romeo 159
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowe kombi 
+Długość 	    4660 mm
+Szerokość 	    1828 mm
+Wysokość	    1422 mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 405 l
+Rodzaj napedu       przedni  / AWD
+
+
+2. Opel Insignia
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowy liftback
+                    5-drzwiowe kombi
+Długość 	    4830  mm
+Szerokość 	    1856 mm
+Wysokość 	    1498mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 500 l
+Rodzaj napedu       przedni  / AWD
+
+
+3. Honda Accord
+
+Typy nadwozia 	    2-drzwiowe coupe
+                    3-drzwiowy hatchback
+                    5-drzwiowy hatchback
+                    4-drzwiowy sedan
+                    5-drzwiowe kombi
+Długość 	    4725  mm
+Szerokość 	    1840 mm
+Wysokość 	    1440mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 467 l
+
+
+4. Hyundai i40
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowe kombi
+Długość 	    4740 mm
+Szerokość 	    1815 mm
+Wysokość 	    1470mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 540 l
+
+5. Jaguar X-Type
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowe kombi
+Długość 	    4672 mm
+Szerokość 	    1789 mm
+Wysokość 	    1392mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 452 l
+
+SEGMENT E :
+
+1. Audi A6
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowe kombi
+Długość 	    4916 mm
+Szerokość	    1855 mm
+Wysokość 	    1459 mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 545 l
+Rodzaj napedu       przedni  / AWD
+
+2. Jaguar XF
+
+Typy nadwozia 	    4-drzwiowy sedan
+Długość 	    4961 mm
+Szerokość 	    1877 mm
+Wysokość 	    1460 mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 520 l
+
+3. Citroën C6
+
+Typy nadwozia 	    4-drzwiowy fastback
+Długość 	    4908 mm
+Szerokość 	    1860 mm
+Wysokość 	    1465 mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 421 l
+
+4. Rover 75
+
+Typy nadwozia 	    4-drzwiowy sedan
+                    5-drzwiowe kombi
+Długość 	    4747 mm
+Szerokość 	    1778 mm
+Wysokość 	    1424 mm
+Test Euro NCAP 	    4 gwiazdek
+Wysokość  baga¿nika 432 l
+Rodzaj napêdu 	    przedni
+
+5. Cadillac STS
+
+Typy nadwozia 	    4-drzwiowy sedan
+Długość 	    4986 mm
+Szerokość	    1844 mm
+Wysokość 	    1463 mm
+Test Euro NCAP 	    5 gwiazdek
+Pojemność baga¿nika 464 l
+Rodzaj napêdu 	    Tylny / AWD
+
+SEGMENT F :
+
+1. Audi A8
+
+Długość             5131 mm
+Szerokość           1949 mm
+Wysokość	    1460 mm
+Typy nadwozia	    4-drzwiowy sedan
+Masa w³asna	    1830 - 2130 kg
+Poj. zbiornika      90 l
+
+2. BMW s7
+
+Długość	            5072 mm
+Szerokość	    1902 mm
+Wysokość	    1479 mm
+Rozstaw osi	    3070 mm
+Masa w³asna         19352055 kg
+Typy nadwozia	    4-drzwiowy sedan
+
+3. Lexus LS
+
+Rodzaj napêdu	    tylny lub 4x4
+Długość	            5030 mm / 5150 mm
+Szerokość	    1875 mm
+Wysokość	    1466 mm
+Rozstaw osi	    2970/ 3090 mm
+Masa w³asna 	    1920-1960 kg
+Poj. zbiornika      84 l
+
+4. Mercedes-Benz  S
+
+Rodzaj napêdu	    tylny / AWD
+Długość	            5076 mm
+Szerokość	    1871 mm
+Wysokość	    1473 mm
+Rozstaw osi	    3035 mm
+Masa w³asna	    1955 - 2270 kg
+Poj. zbiornika      90 l
+
+5. Porsche Panamera
+
+Długość	            4970 mm
+Szerokość	    1931 mm
+Wysokość	    1418 mm
+Rozstaw osi	    2900 mm
+Masa w³asna	    1730 kg
+Poj. zbiornika      80 l 
+
+SEGMENT G :
+
+1. Maserati GranTurismo
+
+Rodzaj napêdu	   tylny
+Długość	           4881 mm
+Szerokość	   1847 mm
+Wysokość	   1353 mm
+Rozstaw osi	   2942 mm
+Masa w³asna	   1880 kg
+
+2. Bugatti Veyron
+
+Rodzaj napêdu	   AWD
+Długość	           4462 mm
+Szerokość	   1998 mm
+Wysokość	   1159 mm
+Rozstaw osi	   2710 mm
+Masa w³asna	   1888 kg
+Liczba miejsc	   2
+
+3. Lamborghini Aventador
+
+Rodzaj napêdu	  AWD
+Długość	          4780 mm
+Szerokość	  2030 mm
+Wysokość	  1136 mm
+Rozstaw osi	  2700 mm
+Masa w³asna	  1575 kg
+Poj. zbiornika    90 l
+
+4. Ferrari 599 GTB
+
+Rodzaj napêdu	 tylny
+Długość	         4665 mm
+Szerokość	 1962 mm
+Wysokość	 1314 mm
+Rozstaw osi	 2750 mm
+Masa w³asna	 1753 kg
+
+5. Porsche 991 GT2
+
+Rodzaj napêdu	 tylny
+Długość	         4469 mm
+Szerokość	 1852 mm
+Wysokość	 1285 mm
+Rozstaw osi	 2350 mm
+Masa w³asna	 1440 kg
+Poj. zbiornika   90 l
+
+SEGMENT H :
+
+1. Audi TT Roadster
+
+Rodzaj napêdu 	 przedni lub 4x4
+Długość	         4178 mm
+Szerokość	 1842 mm
+Wysokość	 1352 mm
+Rozstaw osi	 2468 mm
+Poj. zbiornika   55 l (quattro 60 l)
+Liczba miejsc	 2+2
+
+2. Honda S2000
+
+Rodzaj napêdu	 tylny
+Długość	         4120 mm
+Szerokość	 1750 mm
+Wysokość	 1270 mm
+Rozstaw osi	 2400 mm
+Masa w³asna	 1250 kg
+Poj. zbiornika   50 l
+Liczba miejsc	 2
+
+3. BMW Z4
+
+Rodzaj napêdu	 tylny
+Długość   	 4091 mm
+Szerokość	 1781 mm
+Wysokość	 1268 mm  1302 mm
+Rozstaw osi	 2495 mm
+Masa w³asna	 1295 kg
+Poj. zbiornika   55 l
+Test Euro NCAP	 4 gwiazdki
+
+4. Ferrari F430 Spider
+
+Rodzaj napêdu	 tylny
+Długość	         4512 mm
+Szerokość	 1923 mm
+Wysokość	 12141234 mm
+Rozstaw osi	 2600 mm
+Masa w³asna	 1520 kg 
+Liczba miejsc	 2
+
+5. Alfa Romeo Spider Nuova
+
+Rodzaj napêdu	 przedni / AWD (Q4)
+Długość	         4395 mm
+Szerokość	 1830 mm
+Wysokość	 1316 mm
+Rozstaw osi	 2528 mm
+Masa w³asna	 1385  1630 kg
+
+SEGMENT H :
+
+1. Mercedes Benz G
+
+Rodzaj napêdu	 AWD
+Szerokość	 1760 mm
+Wysokość	 1931 mm
+Rozstaw osi	 24002850 mm
+Masa w³asna	 2350-2600 kg
+Poj. zbiornika   81-96 l
+
+2. Jeep Wrangler
+
+Długość	         3947 mm
+Szerokość	 1694 mm
+Wysokość	 1806 mm
+Rozstaw osi	 2372 mm
+Masa w³asna	 1408 kg
+Poj. zbiornika   72 l
+
+3. Jeep Cherokee
+
+Długość	         4496 mm
+Szerokość	 1819 mm
+Wysokość	 1897 mm
+Rozstaw osi	 2649 mm
+Masa w³asna	 ~2010 kg
+Poj. zbiornika   70 l
+Liczba miejsc	 5
+
+4. Land Rover Discovery 4
+
+Długość  	 4835 mm
+Szerokość	 1915 mm
+Wysokość	 1887 mm
+Masa w³asna	 2594 kg
+Liczba miejsc	 5/7
+Test Euro NCAP	 4 gwiazdki
+
+5. Volkswagen Touareg
+
+Długość  	 4754 mm
+Szerokość	 1928 mm
+Wysokość	 1726 mm
+Rozstaw osi	 2855 mm
+Masa w³asna	 2214 - 2602 kg
+Poj. zbiornika   100 l
+Liczba miejsc	 5
+Test Euro NCAP	 5 gwiazdek
+
+
